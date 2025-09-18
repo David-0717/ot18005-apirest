@@ -2,7 +2,7 @@ var fila = "<tr><td class='id'></td><td class='foto'></td><td class='price'></td
 var productos = null;
 
 // Marca personalizada en consola
-console.log("App personalizada por HB21009 - Guia61b");
+console.log("App personalizada por OT18005 - Guia61b");
 
 function codigoCat(catstr) {
 	var code = "null";
