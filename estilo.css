@@ -1,7 +1,7 @@
 /* estilos básicos */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #E0FFFF;
     color: #222;
     text-align: center;
 }
@@ -13,7 +13,7 @@ h1 {
 footer {
     margin-top: 20px;
     padding: 10px;
-    background-color: #e6f2ff;
+    background-color: #AFEEEE;
     border-top: 2px solid darkblue;
     font-size: 14px;
     font-style: italic;
@@ -33,7 +33,7 @@ table {
 }
 
 table th {
-    background-color: #d9eaff;
+    background-color: #556B2F;
     padding: 5px;
 }
 
